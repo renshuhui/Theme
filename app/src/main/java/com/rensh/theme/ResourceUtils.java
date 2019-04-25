@@ -87,6 +87,7 @@ public class ResourceUtils {
         map.put("theme_xima_album_song_fav",resources.getDrawable(R.mipmap.theme_xima_album_song_fav));
         map.put("theme_nav_ic_collect_p",resources.getDrawable(R.mipmap.theme_nav_ic_collect_p));
         map.put("theme_nav_money",resources.getDrawable(R.mipmap.theme_nav_money));
+        map.put("theme_button_bg_112_50",resources.getDrawable(R.mipmap.theme_button_bg_112_50));
 
         return map;
     }
